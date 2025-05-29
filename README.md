@@ -5,6 +5,7 @@ HTML/CSS (served from /public folder)
 Docker (optional for deployment)
 
 ### 📂 Project Structure
+
  PracticesApp/
 ├── public/               # Static files (HTML, CSS)
 │   └── index.html
